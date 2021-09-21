@@ -110,6 +110,7 @@ a {
 }
 
 .hero__hero-btn {
+  margin-right: 16px;
   padding: 15px 24px;
   font-weight: 500;
   font-size: 14px;
