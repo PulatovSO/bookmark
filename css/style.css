@@ -125,7 +125,8 @@ a {
   transition: all 0.3s ease-in-out;
 }
 
-.hero__hero-btn:hover {
+.hero__hero-btn:hover,
+.hero__btn--active {
   background: #5267DF;
   color:#fff;
 }
